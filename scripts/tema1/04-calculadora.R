@@ -56,6 +56,8 @@ exp(1)
 
 log(pi)
 
+log10(pi)
+
 log(32, 2)
 
 log(32, base = 2)
@@ -78,6 +80,10 @@ log(4^6, 4)
 6^log(4,6)
 
 choose(5,2)
+
+choose (5,3)
+
+choose ()
 
 sin(60*pi/180)
 
